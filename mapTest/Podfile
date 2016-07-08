@@ -1,0 +1,25 @@
+
+
+platform :ios, ‘7.0’
+
+pod ‘MJRefresh’
+
+pod ‘MJExtension’
+
+pod 'MBProgressHUD', '~> 0.9.1'
+
+pod ‘Masonry’
+pod 'AFNetworking'
+
+pod 'JSONModel', '~> 1.0.2'
+
+
+pod 'MBProgressHUD', '~> 0.9.1'
+
+pod 'MWPhotoBrowser', '~> 2.1.1'
+
+pod ‘IQKeyboardManager’
+
+pod ‘SDWebImage’, ‘~>3.7’
+
+pod 'BaiduMapKit'
